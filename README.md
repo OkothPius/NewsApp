@@ -22,7 +22,7 @@ _An application  that will help them list and preview news articles from various
 * _Clone this repository_
 * _Must have NewsApi to continue_
 * _Install python3 and above_
-* ///python3.6 -m venv --without-pip virtual/// to create virtual environment_
+* ///python3.6 -m venv --without-pip virtual to create virtual environment///
 * _Activate by source virtual/bin/activate_
 * _Open the application by python3.6 manage.py server_
 
